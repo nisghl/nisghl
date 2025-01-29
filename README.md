@@ -1,34 +1,24 @@
 <h1 align="center">Hi 👋, I'm Nishant Gohel</h1>
 <h3 align="center">A passionate Full Stack Automation Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fundootesters&label=Profile%20views&color=0e75b6&style=flat" alt="fundootesters" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisghl&label=Profile%20views&color=0e75b6&style=flat" alt="nisghl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fundootesters" alt="fundootesters" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisghl" alt="nisghl" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fundootesters" target="blank"><img src="https://img.shields.io/twitter/follow/fundootesters?logo=twitter&style=for-the-badge" alt="fundootesters" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nnishantgohel" target="blank"><img src="https://img.shields.io/twitter/follow/nnishantgohel?logo=twitter&style=for-the-badge" alt="nnishantgohel" /></a> </p>
 
 - 🔭 I’m currently working on **Backend, Microservices and Cloud Automation**
 
-- 🤝 To meet with me **https://topmate.io/fundootesters**
-
-- Main Github repo **https://github.com/Fundootesters**
-
-- 📝 I regularly post videos on [https://www.youtube.com/@FunDooTesters](https://www.youtube.com/@FunDooTesters)
-
 - 💬 Ask me about **Backend, Microservices and Cloud Automation**
 
-- 📫 How to reach me **fundootesters@gmail.com**
+- 📫 How to reach me **nis.ghl@gmail.com**
 
 - ⚡ Fun fact **I love to create memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fundootesters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" /></a>
+<a href="https://twitter.com/nnishantgohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fundootesters" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishantgohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantgohel" height="30" width="40" /></a>
-<a href="https://fb.com/fundootesters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fundootesters" height="30" width="40" /></a>
-<a href="https://instagram.com/fundootesters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fundootesters" height="30" width="40" /></a>
-<a href="https://medium.com/@fundootesters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fundootesters" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fundootesters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fundootesters" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
