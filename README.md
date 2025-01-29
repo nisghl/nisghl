@@ -29,28 +29,18 @@
 
 
 
-
-
-<h3 align="left">Support:</h3>
 <div>
-  <a href="https://www.buymeacoffee.com/fundootesters">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fundootesters" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisghl&show_icons=true&locale=en&layout=compact" alt="nisghl" />
 </div>
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fundootesters&show_icons=true&locale=en&layout=compact" alt="fundootesters" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisghl&show_icons=true&locale=en" alt="nisghl" />
 </div>
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fundootesters&show_icons=true&locale=en" alt="fundootesters" />
-</div>
-<br>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fundootesters&" alt="fundootesters" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisghl&" alt="nisghl" />
 </div>
 
 
